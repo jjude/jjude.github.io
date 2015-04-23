@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+  <title><![CDATA[Joseph Jude]]></title>
+  <description><![CDATA[]]></description>
+  <link>http://jjude.github.io</link>
+	<generator>http://www.olai.in</generator>
+	<lastBuildDate>2015-04-23T12:30+05:30</lastBuildDate>
+	<atom:link href="http://jjude.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+
+	
+		<item>
+			<title><![CDATA[First entry for github]]></title>
+			<link>http://jjude.github.io/first-entry-for-github/</link>
+			<guid>http://jjude.github.io/first-entry-for-github/</guid>
+			<pubDate>2015-04-23T12:30+00:00</pubDate>
+			<description><![CDATA[
+        &lt;p&gt;Testing out github pages&lt;/p&gt;
+
+        <a href="http://jjude.github.io/first-entry-for-github/">First entry for github</a>
+          was written by <a href="http://jjude.github.io">Joseph Jude</a> at <a href="http://jjude.github.io">Joseph Jude</a>. Got a comment? <a href="http://twitter.com/">Tweet</a> it.
+      ]]></description>
+			<dc:creator>Joseph Jude</dc:creator>
+		</item>
+	
+</channel>
+</rss>
