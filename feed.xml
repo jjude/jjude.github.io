@@ -5,33 +5,19 @@
   <description><![CDATA[]]></description>
   <link>http://jjude.github.io</link>
 	<generator>http://www.olai.in</generator>
-	<lastBuildDate>2015-04-23T14:36+05:30</lastBuildDate>
+	<lastBuildDate>2015-04-24T09:59+05:30</lastBuildDate>
 	<atom:link href="http://jjude.github.io/feed.xml" rel="self" type="application/rss+xml"/>
 
 	
 		<item>
-			<title><![CDATA[2nd entry]]></title>
-			<link>http://jjude.github.io/2nd-entry/</link>
-			<guid>http://jjude.github.io/2nd-entry/</guid>
-			<pubDate>2015-04-23T14:36+00:00</pubDate>
+			<title><![CDATA[New entry from olai]]></title>
+			<link>http://jjude.github.io/new-entry-from-olai/</link>
+			<guid>http://jjude.github.io/new-entry-from-olai/</guid>
+			<pubDate>2015-04-24T09:59+00:00</pubDate>
 			<description><![CDATA[
-        &lt;p&gt;second content&lt;/p&gt;
+        &lt;p&gt;olai is something I created for myself&lt;/p&gt;
 
-        <a href="http://jjude.github.io/2nd-entry/">2nd entry</a>
-          was written by <a href="http://jjude.github.io">Joseph Jude</a> at <a href="http://jjude.github.io">Joseph Jude</a>. Got a comment? <a href="http://twitter.com/">Tweet</a> it.
-      ]]></description>
-			<dc:creator>Joseph Jude</dc:creator>
-		</item>
-	
-		<item>
-			<title><![CDATA[First entry for github]]></title>
-			<link>http://jjude.github.io/first-entry-for-github/</link>
-			<guid>http://jjude.github.io/first-entry-for-github/</guid>
-			<pubDate>2015-04-23T12:30+00:00</pubDate>
-			<description><![CDATA[
-        &lt;p&gt;Testing out github pages&lt;/p&gt;
-
-        <a href="http://jjude.github.io/first-entry-for-github/">First entry for github</a>
+        <a href="http://jjude.github.io/new-entry-from-olai/">New entry from olai</a>
           was written by <a href="http://jjude.github.io">Joseph Jude</a> at <a href="http://jjude.github.io">Joseph Jude</a>. Got a comment? <a href="http://twitter.com/">Tweet</a> it.
       ]]></description>
 			<dc:creator>Joseph Jude</dc:creator>
