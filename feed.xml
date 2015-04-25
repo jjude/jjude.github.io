@@ -2,22 +2,22 @@
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
   <title><![CDATA[Joseph Jude]]></title>
-  <description><![CDATA[Technical snippets by Joseph Jude]]></description>
+  <description><![CDATA[]]></description>
   <link>http://jjude.github.io</link>
 	<generator>http://www.olai.in</generator>
-	<lastBuildDate>2015-04-25T05:58+05:30</lastBuildDate>
+	<lastBuildDate>2015-04-25T16:07+05:30</lastBuildDate>
 	<atom:link href="http://jjude.github.io/feed.xml" rel="self" type="application/rss+xml"/>
 
 	
 		<item>
-			<title><![CDATA[How to zip &amp; unzip files in Linux]]></title>
-			<link>http://jjude.github.io/how-to-zip-unzip-files-in-linux/</link>
-			<guid>http://jjude.github.io/how-to-zip-unzip-files-in-linux/</guid>
-			<pubDate>2015-04-25T05:58+00:00</pubDate>
+			<title><![CDATA[git error]]></title>
+			<link>http://jjude.github.io/git-error/</link>
+			<guid>http://jjude.github.io/git-error/</guid>
+			<pubDate>2015-04-25T16:07+00:00</pubDate>
 			<description><![CDATA[
-        &lt;p&gt;We will see how to do these in any POSIX based system.&lt;/p&gt;
+        &lt;p&gt;if get error happens, then configure git.&lt;/p&gt;
 
-        <a href="http://jjude.github.io/how-to-zip-unzip-files-in-linux/">How to zip &amp; unzip files in Linux</a>
+        <a href="http://jjude.github.io/git-error/">git error</a>
           was written by <a href="http://jjude.github.io">Joseph Jude</a> at <a href="http://jjude.github.io">Joseph Jude</a>. Got a comment? <a href="http://twitter.com/">Tweet</a> it.
       ]]></description>
 			<dc:creator>Joseph Jude</dc:creator>
