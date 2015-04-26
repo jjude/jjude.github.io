@@ -5,9 +5,25 @@
   <description><![CDATA[Tech snippets by Joseph Jude]]></description>
   <link>http://jjude.github.io</link>
 	<generator>http://www.olai.in</generator>
-	<lastBuildDate>2015-04-26T09:41+00:00</lastBuildDate>
+	<lastBuildDate>2015-04-26T09:51+00:00</lastBuildDate>
 	<atom:link href="http://jjude.github.io/feed.xml" rel="self" type="application/rss+xml"/>
 
+	
+		<item>
+			<title><![CDATA[How To Empty A Log File]]></title>
+			<link>http://jjude.github.io/empty-log-file/</link>
+			<guid>http://jjude.github.io/empty-log-file/</guid>
+			<pubDate>2015-04-26T09:51+00:00</pubDate>
+			<description><![CDATA[
+        &lt;p&gt;Time to time, you would want to empty a log file but keep the filename as such. Instead of deleting and creating the file, you can use the below command:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;cp /dev/null app.log&lt;/code&gt;&lt;/p&gt;
+
+        <a href="http://jjude.github.io/empty-log-file/">How To Empty A Log File</a>
+          was written by <a href="http://jjude.github.io">Joseph Jude</a> at <a href="http://jjude.github.io">Joseph Jude</a>. Got a comment? <a href="http://twitter.com/jjude">Tweet</a> it.
+      ]]></description>
+			<dc:creator>Joseph Jude</dc:creator>
+		</item>
 	
 </channel>
 </rss>
