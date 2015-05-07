@@ -1,26 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <title><![CDATA[Joseph Jude]]></title>
-  <description><![CDATA[Tech snippets by Joseph Jude]]></description>
+  <title><![CDATA[certainties &amp; Serendipities]]></title>
+  <description><![CDATA[]]></description>
   <link>http://jjude.github.io</link>
 	<generator>http://www.olai.in</generator>
-	<lastBuildDate>2015-04-26T09:54+00:00</lastBuildDate>
+	<lastBuildDate>2015-05-07T07:11+05:30</lastBuildDate>
 	<atom:link href="http://jjude.github.io/feed.xml" rel="self" type="application/rss+xml"/>
 
 	
 		<item>
-			<title><![CDATA[How To Empty A Log File]]></title>
-			<link>http://jjude.github.io/empty-log-file/</link>
-			<guid>http://jjude.github.io/empty-log-file/</guid>
-			<pubDate>2015-04-26T09:51+00:00</pubDate>
+			<title><![CDATA[New Olai]]></title>
+			<link>http://jjude.github.io/new-olai/</link>
+			<guid>http://jjude.github.io/new-olai/</guid>
+			<pubDate>2015-05-07T07:11+00:00</pubDate>
 			<description><![CDATA[
-        &lt;p&gt;Time to time, you would want to empty a log file but keep the filename as such. Instead of deleting and creating the file, you can use the below command:&lt;/p&gt;
+        <p>How will this get done</p>
 
-&lt;p&gt;&lt;code&gt;cp /dev/null app.log&lt;/code&gt;&lt;/p&gt;
-
-        <a href="http://jjude.github.io/empty-log-file/">How To Empty A Log File</a>
-          was written by <a href="http://jjude.github.io">Joseph Jude</a> at <a href="http://jjude.github.io">Joseph Jude</a>. Got a comment? <a href="http://twitter.com/jjude">Tweet</a> it.
+        <a href="http://jjude.github.io/new-olai/">New Olai</a>
+          was written by <a href="http://jjude.github.io">Joseph Jude</a> at <a href="http://jjude.github.io">certainties &amp; Serendipities</a>. Got a comment? <a href="http://twitter.com/">Tweet</a> it.
       ]]></description>
 			<dc:creator>Joseph Jude</dc:creator>
 		</item>
