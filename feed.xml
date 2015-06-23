@@ -5,9 +5,28 @@
   <description><![CDATA[Tech Snippets]]></description>
   <link>http://jjude.github.io</link>
 	<generator>http://www.olai.in</generator>
-	<lastBuildDate>2015-06-23T21:11+05:30</lastBuildDate>
+	<lastBuildDate>2015-06-23T21:15+05:30</lastBuildDate>
 	<atom:link href="http://jjude.github.io/feed.xml" rel="self" type="application/rss+xml"/>
 
+	
+		<item>
+			<title><![CDATA[This is from MarsEdit]]></title>
+			<link>http://jjude.github.io/this-is-from-marsedit/</link>
+			<guid>http://jjude.github.io/this-is-from-marsedit/</guid>
+			<pubDate>2015-06-23T21:15+00:00</pubDate>
+			<description><![CDATA[
+        <p>What will happen <strong>if this</strong> does work? Will you move it to production?</p>
+<pre>func new(){</pre>
+<pre>print(“this is interesting”</pre>
+<pre>}</pre>
+<p> </p>
+<p>What happens if I copy paste code?</p>
+<pre>{% block script %}<br /> {% if env == "dev" %}<br /> &lt;script language="javascript" type="text/javascript" src="/static/js/jquery-1.11.3.min.js"&gt;&lt;/script&gt; <br /> {% else %}<br /> &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"&gt;&lt;/script&gt;<br /> {% endif %}<br /> &lt;script language="javascript" type="text/javascript" src="/static/js/showhidehosting.js"&gt;&lt;/script&gt;<br />{% endblock script %}</pre>
+        <a href="http://jjude.github.io/this-is-from-marsedit/">This is from MarsEdit</a>
+          was written by <a href="http://jjude.github.io">Joseph</a> at <a href="http://jjude.github.io">Joseph Jude</a>. Got a comment? <a href="http://twitter.com/">Tweet</a> it.
+      ]]></description>
+			<dc:creator>Joseph</dc:creator>
+		</item>
 	
 		<item>
 			<title><![CDATA[New Entry From Olai After Update]]></title>
